@@ -21,7 +21,7 @@ Then the output should be = [94133,94133] [94200,94399]
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Use JDK 1.5 and above
 
-1) ZIPCodeRangeMain.java - This is main program. Run this program as Java application
+1) ZIPCodeRangeMain.java under main folder - This is main program. Run this program as Java application
 
 2) restriction.txt - contains restricted ZIP code ranges. Give the ZIP code range in specific format in line by line. The format should be as below. 
 
